@@ -1,3 +1,12 @@
+# spotifyApp
+Displays currently playing song/album using Spotify api
+
+Features Spotify API to display a current artist, album and song
+Implements Spotify OAuth2 so users can read currently playing track from their Spotify account.
+
+For more information on authorization scopes: https://developer.spotify.com/documentation/general/guides/scopes/#user-read-playback-state
+
+
 # Spotify Accounts Authentication Examples
 
 This project contains basic demos showing the different OAuth 2.0 flows for [authenticating against the Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/).
